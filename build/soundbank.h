@@ -1,0 +1,7 @@
+#define MOD_11THHOUR	0
+#define SFX_DOUBLEJUMP	15
+#define SFX_JUMP	16
+#define SFX_SHOOT	17
+#define MSL_NSONGS	1
+#define MSL_NSAMPS	18
+#define MSL_BANKSIZE	19
